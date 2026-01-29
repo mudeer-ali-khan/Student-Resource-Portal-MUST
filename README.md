@@ -17,4 +17,16 @@ The "Student Resource Portal" is a central dashboard designed for students to ac
 * **CSS3** (Grid & Flexbox)
 * **Google Fonts / Web Safe Fonts**
 
+  ## 👨‍💻 Author
+
+**Mudeer Ali**
+B.Sc. Software Engineering
+Mirpur University of Science & Technology (MUST)
+
+---
+
+## 📄 License
+
+This project is created for **educational and academic use only**
+
  
