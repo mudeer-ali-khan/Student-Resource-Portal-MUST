@@ -17,11 +17,4 @@ The "Student Resource Portal" is a central dashboard designed for students to ac
 * **CSS3** (Grid & Flexbox)
 * **Google Fonts / Web Safe Fonts**
 
-## 📂 Project Structure
-```text
-BrightFuture_FA23-BSE-073/
-├── index.html       # Main structure of the portal
-├── style.css       # Custom styling and layout rules
-├── banner.png      # Hero section image
-├── logo.png        # Custom designed portal logo
-└── profile pic.png # Student profile image
+ 
